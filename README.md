@@ -1,4 +1,4 @@
-# 本仓库是对该视频进行简单实现
+# 本仓库是对下面视频进行简单实现
 
 【只有程序员懂】 https://www.bilibili.com/video/BV1hM4y127NH
 
