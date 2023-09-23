@@ -16,7 +16,7 @@
 ![](https://th.bing.com/th/id/OIP.5SgxDxkPLkRhGpMFrb9nGAAAAA?w=195&h=195&c=7&r=0&o=5&pid=1.7)
 
 
-## Java版本
+# Java版本
 
 # 十大经典排序算法
 1、稳定排序：如果 a 原本在 b 的前面，且 a == b，排序之后 a 仍然在 b 的前面，则为稳定排序。
